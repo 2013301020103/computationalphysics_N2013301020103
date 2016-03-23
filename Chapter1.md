@@ -2,7 +2,7 @@
 
 ##感谢
 
-感谢[孙博阳同学]()的代码
+感谢[孙博阳同学](https://github.com/Shine1090/computationalphysics_N2013301020093)的代码
 
 ##内容
 
